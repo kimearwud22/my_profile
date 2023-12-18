@@ -13,7 +13,7 @@ const Footer = ({link, icon}) => {
             </Link>
           </div>
           <div className="flex items-center">
-            <Link href="https://github.com/kimearwud22https://www.linkedin.com/in/moh-nur-hakim-450ba925b/">
+            <Link href="https://www.linkedin.com/in/moh-nur-hakim-450ba925b/">
               <span className="self-center text-xl font-medium text-[#24252a] hover:text-opacity-70">
                 LinkedIn: moh nur hakim
               </span>
